@@ -1,0 +1,1 @@
+conda create --name inf_pred  python=3.9
